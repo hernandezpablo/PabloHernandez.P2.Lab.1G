@@ -65,3 +65,28 @@
 	"controller.h"
 	"LinkedList.h"
 
+1637970156 source:c:\users\pablu\documents\programacion\examen progra\pablohernandez.p2.lab.1g\2doparciallabo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"LinkedList.h"
+	"parser.h"
+	"peliculas.h"
+	"controller.h"
+	"BibliotecaPersonal.h"
+	<time.h>
+
+1637965816 c:\users\pablu\documents\programacion\examen progra\pablohernandez.p2.lab.1g\2doparciallabo\linkedlist.h
+
+1637964656 c:\users\pablu\documents\programacion\examen progra\pablohernandez.p2.lab.1g\2doparciallabo\parser.h
+	"LinkedList.h"
+
+1637969737 c:\users\pablu\documents\programacion\examen progra\pablohernandez.p2.lab.1g\2doparciallabo\peliculas.h
+
+1637969948 c:\users\pablu\documents\programacion\examen progra\pablohernandez.p2.lab.1g\2doparciallabo\controller.h
+	"LinkedList.h"
+	"peliculas.h"
+
+1637600437 c:\users\pablu\documents\programacion\examen progra\pablohernandez.p2.lab.1g\2doparciallabo\bibliotecapersonal.h
+

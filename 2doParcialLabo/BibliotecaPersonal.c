@@ -1,9 +1,4 @@
-/*
- * BibliotecaPersonal.c
- *
- *  Created on: 16 Oct 2021
- *      Author: Tomas Perez Ponisio
- */
+
 
 #include <stdio.h>
 #include <stdlib.h>
