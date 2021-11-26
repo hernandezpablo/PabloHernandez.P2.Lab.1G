@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1637965817 source:c:\users\pablu\documents\programacion\2doparciallabo\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"ctype.h"
+
+1637965816 c:\users\pablu\documents\programacion\2doparciallabo\linkedlist.h
+
+1637970156 source:c:\users\pablu\documents\programacion\2doparciallabo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"LinkedList.h"
+	"parser.h"
+	"peliculas.h"
+	"controller.h"
+	"BibliotecaPersonal.h"
+	<time.h>
+
+1635938462 source:c:\users\pablu\documents\programacion\2doparciallabo\bibliotecapersonal.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"BibliotecaPersonal.h"
+
+1637600437 c:\users\pablu\documents\programacion\2doparciallabo\bibliotecapersonal.h
+
+1637964626 source:c:\users\pablu\documents\programacion\2doparciallabo\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"peliculas.h"
+	"parser.h"
+
+1637969171 source:c:\users\pablu\documents\programacion\2doparciallabo\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"peliculas.h"
+	"LinkedList.h"
+	"BibliotecaPersonal.h"
+
+1637964656 c:\users\pablu\documents\programacion\2doparciallabo\parser.h
+	"LinkedList.h"
+
+1637969737 c:\users\pablu\documents\programacion\2doparciallabo\peliculas.h
+
+1637969948 c:\users\pablu\documents\programacion\2doparciallabo\controller.h
+	"LinkedList.h"
+	"peliculas.h"
+
+1637969156 source:c:\users\pablu\documents\programacion\2doparciallabo\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"peliculas.h"
+	"parser.h"
+	"BibliotecaPersonal.h"
+	"controller.h"
+	"LinkedList.h"
+
